@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "fb56d0bf-174a-43b0-a1b5-072217cfb08f",
+      "email": "test",
+      "lastname": "test",
+      "firstname": "test",
+      "channel": 0
+    }
+  ],
+  "message": []
+}
